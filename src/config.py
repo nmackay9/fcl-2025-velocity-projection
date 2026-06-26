@@ -27,7 +27,7 @@ sns.set_theme(style='whitegrid')
 PHI_RED = 'crimson'
 PHI_BLUE = 'navy'
 PHI_PURPLE = 'rebeccapurple'
-PALETTE = sns.color_palette([PHI_RED, PHI_BLUE, PHI_PURPLE, 'darkseagreen', 'goldenrod', 'dimgray', 'teal'])
+PALETTE = sns.color_palette([PHI_RED, PHI_BLUE, PHI_PURPLE, 'darkseagreen', 'goldenrod', 'dimgray', 'teal', 'sienna'])
 
 
 def safe_to_csv(dataframe, path, **kwargs):
